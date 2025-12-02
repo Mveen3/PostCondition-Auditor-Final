@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+
+# IDE files
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+
+# Environment variables
+.env
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Reference Materials
+Ref_Materials/
